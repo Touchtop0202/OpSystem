@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/dynamic_memory_manage.dir/src/memory_manage.cpp.o CMakeFiles/dynamic_memory_manage.dir/src/test.cpp.o  -o dynamic_memory_manage 
